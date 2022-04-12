@@ -576,6 +576,21 @@ background-color: white;
 .hide{
   display: none;
 }
+.link1{
+  background-image: url('./assets/images/LAB.jpeg');
+  background-size: cover;
+  background-position: center;
+}
+.link2{
+  background-image: url('./assets/images/ambulance.jpg');
+  background-size: cover;
+  background-position: center;
+}
+.link3{
+  background-image: url('./assets/images/med-lab-consumables.jpg');
+  background-size: cover;
+  background-position: center;
+}
 }
 
 
